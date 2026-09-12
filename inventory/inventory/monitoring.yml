@@ -2,5 +2,5 @@
 monitoring:
   hosts:
     mon-1:
-      ansible_host: CHANGE_ME
-      ansible_user: CHANGE_ME
+      ansible_host: 95.38.188.98
+      ansible_user: root
